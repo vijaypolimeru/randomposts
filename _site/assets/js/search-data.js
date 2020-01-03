@@ -64,11 +64,6 @@ var store = [{
         "tags": ["content","embeds","media","twitter"],
         "url": "/randomposts/media/2010/09/10/post-twitter-embeds.html"
       },{
-        "title": "Layout: Post with Table Of Contents",
-        "excerpt":"Enable table of contents on post or page by adding {% include toc %} where you’d like it to appear. Table of Contents HTML Elements Body text Blockquotes List Types Ordered Lists Unordered Lists Tables Code Snippets Buttons NoticesHTML Elements Below is are some HTML elements. Check the source code...","categories": ["Layout"],
-        "tags": ["table of contents"],
-        "url": "/randomposts/layout/2012/03/04/layout-table-of-contents.html"
-      },{
         "title": "Layout: Author Override",
         "excerpt":"Sites that may have content authored from various individuals can be accommodated by using data files. To attribute an author to a post or page that is different from the site author specified in _config.yml: Step 1. Create _data/authors.yml and add authors using the following format. Anything variables found under...","categories": [],
         "tags": [],
