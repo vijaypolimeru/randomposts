@@ -21,7 +21,7 @@ title: "So Simple Development Site"
 description: "A simple Jekyll theme for words and pictures."
 baseurl: "/randomposts" # the subpath of your site, e.g. "/blog"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-#logo: "/images/so-simple-site-logo.png" # path of site logo, e.g. "/assets/images/logo.png"
+logo: "/images/so-simple-site-logo.png" # path of site logo, e.g. "/assets/images/logo.png"
 date_format: "%B %-d, %Y"
 read_time: true
 words_per_minute: 200
@@ -80,6 +80,9 @@ collections:
   recipes:
     output: true
     permalink: /:collection/:path/
+  recipes1:
+    output: true
+    permalink: /:collection/:path/	
 
 # Front Matter Defaults
 defaults:
@@ -99,6 +102,34 @@ defaults:
       layout: post
       comments: true
       share: true
+  - scope:
+      path: "_recipes1"
+      type: recipes1
+    values:
+      layout: post
+      comments: true
+      share: true
+  # - scope:
+      # path: "_recipes2"
+      # type: recipes2
+    # values:
+      # layout: post
+      # comments: true
+      # share: true
+  # - scope:
+      # path: "_recipes3"
+      # type: recipes3
+    # values:
+      # layout: post
+      # comments: true
+      # share: true
+  # - scope:
+      # path: "_recipes4"
+      # type: recipes4
+    # values:
+      # layout: post
+      # comments: true
+      # share: true
 
 # Site Author
 author:

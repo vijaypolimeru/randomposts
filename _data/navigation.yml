@@ -6,7 +6,9 @@
   url: /categories/
 - title: Tags
   url: /tags/
-- title: Recipes
+- title: Other Websites
   url: /recipes/
+- title: Recipes1
+  url: /recipes1/  
 - title: Search
   url: /search/
