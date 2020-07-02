@@ -1,5 +1,5 @@
 ---
-title: "Edge Case: Nested and Mixed Lists"
+title: 
 categories:
   - Edge Case
 tags:
@@ -21,7 +21,7 @@ last_modified_at: 2017-03-09T14:25:52-05:00
     <div class="col-md-8">
       <div class="card-body">
         
-		<h1 id="page-title" class="card-title page-title" style="font-size: 2.5em;">Vijay Kumar Polimeru</h1>
+		<h1 id="page-title" class="card-title page-title" style="font-size: 2.5em;">Check dropdown</h1>
         <p class="card-text" style="font-size: 1.2em;">
 	
 What is Lorem Ipsum?
