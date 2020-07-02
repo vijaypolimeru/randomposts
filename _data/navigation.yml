@@ -1,7 +1,7 @@
 # Site navigation links
 
-- title: Posts
-  url: /posts/
+- title: Home
+  url: /index.html
 - title: Categories
   url: /categories/
 - title: Tags
