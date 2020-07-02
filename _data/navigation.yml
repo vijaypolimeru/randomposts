@@ -12,3 +12,14 @@
   url: /recipes1/  
 - title: Search
   url: /search/
+- title: BLOG
+  url: /tags/
+  sublinks:
+    - title: HOME
+      url: https://vijaypolimeru.github.io/blog_home/
+    - title: POST ARCHIVE
+      url: https://vijaypolimeru.github.io/posts/
+    - title: CATEGORY ARCHIVE
+      url: https://vijaypolimeru.github.io/categories/
+    - title: TAG ARCHIVE
+      url: https://vijaypolimeru.github.io/tags/  
