@@ -6,12 +6,6 @@
   url: /categories/
 - title: Tags
   url: /tags/
-- title: Other Websites
-  url: /recipes/
-- title: Recipes1
-  url: /recipes1/  
-- title: Search
-  url: /search/
 - title: BLOG
   url: /tags/
   sublinks:
@@ -23,3 +17,9 @@
       url: https://vijaypolimeru.github.io/categories/
     - title: TAG ARCHIVE
       url: https://vijaypolimeru.github.io/tags/  
+- title: Other Websites
+  url: /recipes/
+- title: Recipes1
+  url: /recipes1/  
+- title: Search
+  url: /search/
