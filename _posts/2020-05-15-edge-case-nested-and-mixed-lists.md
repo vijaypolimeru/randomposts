@@ -1,5 +1,5 @@
 ---
-title: 
+
 categories:
   - Edge Case
 tags:
