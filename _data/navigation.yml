@@ -7,7 +7,7 @@
 - title: Tags
   url: /tags/
 - title: BLOG
-  url: /tags/
+  url: https://vijaypolimeru.github.io/blog_home/
   sublinks:
     - title: HOME
       url: https://vijaypolimeru.github.io/blog_home/
@@ -29,9 +29,5 @@
       url: https://vijaypolimeru.github.io/categories/
     - title: TAG ARCHIVE 10
       url: https://vijaypolimeru.github.io/tags/        
-- title: Other Websites
-  url: /recipes/
-- title: Recipes1
-  url: /recipes1/  
 - title: Search
   url: /search/
